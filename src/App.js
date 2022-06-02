@@ -48,10 +48,10 @@ function App() {
 
     <div class="footer-right">
 
-      <a href="#"><i class="fa fa-facebook"></i></a>
-      <a href="#"><i class="fa fa-twitter"></i></a>
-      <a href="#"><i class="fa fa-linkedin"></i></a>
-      <a href="#"><i class="fa fa-github"></i></a>
+      <a href="https://www.facebook.com/" target="_blank"><i class="fa fa-facebook"></i></a>
+      <a href="https://twitter.com/" target="_blank"><i class="fa fa-twitter"></i></a>
+      <a href="https://www.linkedin.com/" target="_blank"><i class="fa fa-linkedin"></i></a>
+      <a href="https://github.com/" target="_blank"><i class="fa fa-github"></i></a>
 
     </div>
 

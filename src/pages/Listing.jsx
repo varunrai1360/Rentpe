@@ -64,13 +64,14 @@ function Listing() {
 
 
 
-<div style={{display:"flex",justifyContent:"center",alignItems:"center"}}>
-           {listing.imageUrls.map((url,key)=>
+<div style={{display:"flex",justifyContent:"center",alignItems:"center",marginTop:"15px"}}>
+<img src={listing.imageUrls[0]} style={{width:"50%"}}></img>
+           {/*listing.imageUrls.map((url,key)=>
              (
-              <img src={url} style={{width:"50%"}} alt={key} key={key}></img>
+              <img src={listing.imageUrls[0]} style={{width:"50%"}} alt={key} key={key}></img>
             )
                  
-           )}
+             )*/}
 
            </div>
             
